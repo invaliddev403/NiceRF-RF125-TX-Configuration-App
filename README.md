@@ -14,6 +14,8 @@ https://www.nicerf.com/item/125khz-transmitter-and-receiver-module-rf125
 
 # Module Information
 * All commands are required to end with ``` 0x0d 0x0a ```
+* VCC to the barrel connector can be 9-30V DC
+* RXD/TXD are 3.3V TTL
 ## Set the payload
 1. CMD Byte: ``` 0x57 ```
 2. Length (1 Byte): 0x2D (45 bytes) or less
