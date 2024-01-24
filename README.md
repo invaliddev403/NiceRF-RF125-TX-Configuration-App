@@ -12,7 +12,8 @@ https://www.nicerf.com/item/125khz-transmitter-and-receiver-module-rf125
 1. Connect a UART to USB adapter to the RF125-TX module
 2. Run the script: python3 nicerf-RF125-TX_main.py
 
-# Module Information
+# Transmit Module Information
+![RF125-TX](https://github.com/invaliddev403/NiceRF-RF125-TX-Configuration-App/assets/1800202/8d1f4970-041e-4954-bff6-4040935ae1c0)
 * All commands are required to end with ``` 0x0d 0x0a ```
 * VCC to the barrel connector can be 9-30V DC
 * RXD/TXD are 3.3V TTL
